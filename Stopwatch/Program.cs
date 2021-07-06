@@ -15,9 +15,9 @@ namespace Stopwatch
             Console.Clear();
             Console.WriteLine("");
             Console.WriteLine("--------------------------------------");
-            Console.WriteLine("<*> Selecione o tupo de cronometro <*>");
+            Console.WriteLine("<*> Selecione o tipo de cronômetro <*>");
             Console.WriteLine("--------------------------------------");
-            Console.WriteLine("S = Segundo -> 10s = 10 segundos");
+            Console.WriteLine("S = Segundos -> 10s = 10 segundos");
             Console.WriteLine("M = Minutos -> 1m = 1 minuto");
             Console.WriteLine("0 = Sair");
             Console.WriteLine("--------------------------------------");
