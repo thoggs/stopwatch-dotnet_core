@@ -1,0 +1,15 @@
+/Users/thogs/RiderProjects/stopwatch/Stopwatch/bin/Debug/net5.0/Stopwatch.deps.json
+/Users/thogs/RiderProjects/stopwatch/Stopwatch/bin/Debug/net5.0/Stopwatch.runtimeconfig.json
+/Users/thogs/RiderProjects/stopwatch/Stopwatch/bin/Debug/net5.0/Stopwatch.runtimeconfig.dev.json
+/Users/thogs/RiderProjects/Stopwatch/Stopwatch/bin/Debug/net5.0/Stopwatch.dll
+/Users/thogs/RiderProjects/stopwatch/Stopwatch/bin/Debug/net5.0/ref/Stopwatch.dll
+/Users/thogs/RiderProjects/Stopwatch/Stopwatch/bin/Debug/net5.0/Stopwatch.pdb
+/Users/thogs/RiderProjects/Stopwatch/Stopwatch/obj/Debug/net5.0/Stopwatch.csprojAssemblyReference.cache
+/Users/thogs/RiderProjects/Stopwatch/Stopwatch/obj/Debug/net5.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thogs/RiderProjects/Stopwatch/Stopwatch/obj/Debug/net5.0/Stopwatch.AssemblyInfoInputs.cache
+/Users/thogs/RiderProjects/Stopwatch/Stopwatch/obj/Debug/net5.0/Stopwatch.AssemblyInfo.cs
+/Users/thogs/RiderProjects/Stopwatch/Stopwatch/obj/Debug/net5.0/Stopwatch.csproj.CoreCompileInputs.cache
+/Users/thogs/RiderProjects/Stopwatch/Stopwatch/obj/Debug/net5.0/Stopwatch.dll
+/Users/thogs/RiderProjects/Stopwatch/Stopwatch/obj/Debug/net5.0/ref/Stopwatch.dll
+/Users/thogs/RiderProjects/Stopwatch/Stopwatch/obj/Debug/net5.0/Stopwatch.pdb
+/Users/thogs/RiderProjects/stopwatch/Stopwatch/obj/Debug/net5.0/Stopwatch.genruntimeconfig.cache
